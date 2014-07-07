@@ -7,12 +7,7 @@ Clearfix utility for Archetype components
   * Git: `git clone https://github.com/Archetype-CSS/Archetype-u-clearfix.git`
 
 ## Use
-  * `test-title--structure` - structure styles for the test title
-  * `test-title--skin` - skin styles for the test title
-  * `test-description--structure` - structure styles for the test description
-  * `test-description--skin` - skin styles for the test description
-  * `test--structure` - structure styles for the test
-  * `test--skin` - skin styles for the test
+  * `@extend %cf` - apply clearfix to component
 
 ## Run the Test Locally
 
