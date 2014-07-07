@@ -1,8 +1,8 @@
 {
-  "name": "Archetype-test",
+  "name": "Archetype-u-clearfix",
   "version": "0.1.0",
   "author": "Sam Ashley",
-  "main": "test/_test.scss",
+  "main": "_u-clearfix.scss",
   "ignore": [
     ".*",
     "CHANGELOG.md",
