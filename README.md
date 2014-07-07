@@ -7,7 +7,7 @@ Clearfix utility for Archetype components
   * Git: `git clone https://github.com/Archetype-CSS/Archetype-u-clearfix.git`
 
 ## Use
-  * `@extend %cf` - apply clearfix to component
+  * `@extend %cf;` - apply clearfix to component
 
 ## Run the Test Locally
 
