@@ -1,4 +1,4 @@
-# Archetype-u-clearfix [![Build Status](https://secure.travis-ci.org/Archetype-CSS/Archetype-u-clearfix.png?branch=master)](http://travis-ci.org/Archetype-CSS/Archetype-u-clearfix) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+# Archetype-u-clearfix [![Build Status](https://secure.travis-ci.org/Archetype-CSS/Archetype-u-clearfix.png?branch=master)](http://travis-ci.org/Archetype-CSS/Archetype-u-clearfix) [![Dependency Status](https://gemnasium.com/Archetype-CSS/Archetype-u-clearfix.svg)](https://gemnasium.com/Archetype-CSS/Archetype-u-clearfix) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 Clearfix utility for Archetype components
 
