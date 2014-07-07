@@ -1,0 +1,13 @@
+/**
+ * Test: Archetype/u-text.scss
+ *
+ */
+@import '../../_u-clearfix.scss';
+
+/**
+ * example test class
+ */
+.test__u-clearfix {
+  @extend %cf;
+}
+
