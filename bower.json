@@ -1,6 +1,6 @@
 {
   "name": "Archetype-u-clearfix",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "author": "Sam Ashley",
   "main": "_u-clearfix.scss",
   "ignore": [
