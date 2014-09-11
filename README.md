@@ -10,13 +10,13 @@ Clearfix utility for Archetype components
   * Git: `git clone https://github.com/Archetype-CSS/Archetype-u-clearfix.git`
 
 ## Use
-  * `@extend %cf;` - apply clearfix to component
+  * `@extend %u-cf;` - apply clearfix to component
 
 ## Run the Test Locally
 
 ```bash
-git clone https://github.com/Archetype-CSS/Archetype-test.git
-cd Archetype-test
+git clone https://github.com/Archetype-CSS/Archetype-u-clearfix.git
+cd Archetype-u-clearfix
 npm install
 grunt
 ```
